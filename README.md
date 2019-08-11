@@ -1,2 +1,0 @@
-# MafiasBot
-callmafbot
