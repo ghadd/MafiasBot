@@ -1,6 +1,6 @@
 import telebot;
 import os
-bot = telebot.TeleBot('939686090:AAEb1JtBOTzu3x1lUJ1u_y4IdhhlHt8_JG4');
+bot = telebot.TeleBot('TOKEN');
 
 def gets(arr):
 	res = ''
